@@ -1,7 +1,14 @@
 
 ![Alt text](https://raw.githubusercontent.com/adhikarinarayan/adhikarinarayan/main/Yellow%20and%20Green%20Illustration%20Personal%20LinkedIn%20Banner.png 'title')
-### Hi there 👋
- 
+
+### Hi there 👋 I am Narayan. 
+#### I am an AI enthusiast from India. I started as a physics student and pursued a master's degree in physics. Later, I became interested in computational physics and was eventually captivated by the fascinating world of data science and artificial intelligence.
+
+- 🔭 I’m currently working on GenAI-related projects specifically related to LLMs.
+  
+
+
+
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,8 +25,9 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=adhikarinarayan)](https://github.com/adhikarinarayan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikarinarayan&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikarinarayan&langs_count=5&show_icons=true&theme=dracula)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=adhikarinarayan&show_icons=true&theme=radical)](https://github.com/adhikarinarayan)
+
 
 <!--
 **adhikarinarayan/adhikarinarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
