@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on GenAI-related projects specifically related to LLMs.
   
-
+- 📫 If you have any questions related to my projects or any interesting ideas to discuss, feel free to [reach out](mailto:n.adhikari2010@gmail.com) to me.
 
 
 ## Technical Skills
