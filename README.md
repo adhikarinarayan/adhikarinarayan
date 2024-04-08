@@ -18,7 +18,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-
+[![My github stats](https://github-readme-stats.vercel.app/api?username=adhikarinarayan)](https://github.com/adhikarinarayan)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikarinarayan&langs_count=8)
 
 <!--
 **adhikarinarayan/adhikarinarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
