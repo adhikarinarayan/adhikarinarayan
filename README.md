@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ ![alt text]("https://github.com/adhikarinarayan/adhikarinarayan/blob/main/Yellow%20and%20Green%20Illustration%20Personal%20LinkedIn%20Banner.png" 'title')
+
+
+
+
+
 <!--
 **adhikarinarayan/adhikarinarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
