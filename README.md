@@ -22,12 +22,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikarinarayan&langs_count=5&show_icons=true&theme=dracula)
 [![My github stats](https://github-readme-stats.vercel.app/api?username=adhikarinarayan&show_icons=true&theme=radical)](https://github.com/adhikarinarayan)
 
+
+![](https://komarev.com/ghpvc/?username=adhikarinarayan&color=green)
 
 <!--
 **adhikarinarayan/adhikarinarayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
