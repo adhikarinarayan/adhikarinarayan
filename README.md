@@ -1,15 +1,3 @@
-
-![Alt text](https://raw.githubusercontent.com/adhikarinarayan/adhikarinarayan/main/Yellow%20and%20Green%20Illustration%20Personal%20LinkedIn%20Banner.png 'title')
-
-### Hi there 👋 I am Narayan. 
-#### I am an AI enthusiast from India. I started as a physics student and pursued a master's degree in physics. Later, I became interested in computational physics and was eventually captivated by the fascinating world of data science and artificial intelligence.
-
-- 🔭 I am currently working on NLP projects, specifically related to fine-tuning language models and using RAG for chatbots at a Stealth startup.
-- ⚡  I love chatting about new books, exploring philosophical issues related to AI, talking about cricket, and sharing music recommendations.
-- 👨‍🏫I have given talks on topics related to my work, and you can find slides from these talks/lectures [here](https://github.com/adhikarinarayan/talks)
-- 📫 If you have any questions related to my projects or any interesting ideas to discuss, feel free to [reach out](mailto:n.adhikari2010@gmail.com) to me.
-
-
 ## Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
